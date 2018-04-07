@@ -39,6 +39,9 @@ https://github.com/tucnak/telebot
 - Goodreads
 https://www.goodreads.com/api
 
+
+- Taskwarrior
+https://taskwarrior.org/
 ~~~~~
 drive the following using golang 
 
