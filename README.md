@@ -42,6 +42,12 @@ https://www.goodreads.com/api
 
 - Taskwarrior
 https://taskwarrior.org/
+
+- Trello 
+https://github.com/adlio/trello
+
+https://developers.trello.com/v1.0/reference#introduction
+
 ~~~~~
 drive the following using golang 
 
