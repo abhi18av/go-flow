@@ -48,6 +48,10 @@ https://github.com/adlio/trello
 
 https://developers.trello.com/v1.0/reference#introduction
 
+- Taiga
+
+https://taigaio.github.io/taiga-doc/dist/api.html
+
 ~~~~~
 drive the following using golang 
 
