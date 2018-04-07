@@ -52,6 +52,7 @@ https://github.com/perkeep/perkeep
 
 https://github.com/src-d/go-git
 
+git-lfs
 ~~~~~
 
 Render using hugo on the webpage!
