@@ -60,3 +60,7 @@ Create a YAML / PDF report
 
 
 - mage - hugo - gopherjs
+
+
+=> Use embedded databases 
+https://gitlab.com/fourtek/simple-go-project/tree/master/databases
