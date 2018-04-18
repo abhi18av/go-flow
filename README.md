@@ -75,3 +75,20 @@ Create a YAML / PDF report
 
 => Use embedded databases 
 https://gitlab.com/fourtek/simple-go-project/tree/master/databases
+
+```
+https://github.com/HouzuoGuo/tiedot
+
+https://github.com/prometheus/prometheus
+
+https://github.com/nanobox-io/golang-scribble
+
+https://github.com/cznic/ql
+
+https://github.com/dgraph-io/dgraph
+
+https://github.com/cockroachdb/cockroach
+
+https://github.com/attic-labs/noms
+
+```
